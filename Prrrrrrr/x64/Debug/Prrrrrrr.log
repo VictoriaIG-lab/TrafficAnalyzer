@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Prrrrrrr.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Prrrrrrr.cpp
+C:\Users\Victoria\source\repos\Prrrrrrr\Prrrrrrr\Prrrrrrr.cpp(38,22): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Prrrrrrr.vcxproj -> C:\Users\Victoria\source\repos\Prrrrrrr\x64\Debug\TrafficAnalyzer.exe
